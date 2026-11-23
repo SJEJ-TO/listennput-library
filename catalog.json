@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "works": [
+    {
+      "id": "canterville-ghost",
+      "title": "The Canterville Ghost",
+      "titleKo": "캔터빌의 유령",
+      "author": "Oscar Wilde",
+      "authorKo": "오스카 와일드",
+      "revision": 1,
+      "chapterCount": 3,
+      "durationMs": 4989021,
+      "bytes": 123655,
+      "sha256": "c104fcc8230af04ac035abe081cecf389d508d791f2980926d9c5f63e5f5d290",
+      "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/canterville-ghost-c104fcc8230af04a.json"
+    }
+  ]
+}
