@@ -13,6 +13,71 @@
       "bytes": 123655,
       "sha256": "c104fcc8230af04ac035abe081cecf389d508d791f2980926d9c5f63e5f5d290",
       "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/canterville-ghost-c104fcc8230af04a.json"
+    },
+    {
+      "id": "wonderful-wizard-of-oz",
+      "title": "The Wonderful Wizard of Oz",
+      "titleKo": "오즈의 마법사",
+      "author": "L. Frank Baum",
+      "authorKo": "라이먼 프랭크 바움",
+      "revision": 1,
+      "chapterCount": 24,
+      "durationMs": 14788174,
+      "bytes": 440714,
+      "sha256": "0216fb78bbbd15832d5219724a45b15ff561e4a9fe7c709ef5b3155fc0629f44",
+      "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/wonderful-wizard-of-oz-0216fb78bbbd1583.json"
+    },
+    {
+      "id": "time-machine",
+      "title": "The Time Machine",
+      "titleKo": "타임머신",
+      "author": "H. G. Wells",
+      "authorKo": "허버트 조지 웰스",
+      "revision": 1,
+      "chapterCount": 12,
+      "durationMs": 13186060,
+      "bytes": 379839,
+      "sha256": "cca0149fd55ce521d79a343e2d3677a29300acf880edd53f7cf9b5f7a4118da0",
+      "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/time-machine-cca0149fd55ce521.json"
+    },
+    {
+      "id": "little-princess",
+      "title": "A Little Princess",
+      "titleKo": "소공녀",
+      "author": "Frances Hodgson Burnett",
+      "authorKo": "프랜시스 호지슨 버넷",
+      "revision": 1,
+      "chapterCount": 19,
+      "durationMs": 24226161,
+      "bytes": 831191,
+      "sha256": "feee3e750e6848b514dd963dc372caad0c690dabcf99b3190140bb67eba45fd5",
+      "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/little-princess-feee3e750e6848b5.json"
+    },
+    {
+      "id": "hound-of-the-baskervilles",
+      "title": "The Hound of the Baskervilles",
+      "titleKo": "바스커빌가의 개",
+      "author": "Arthur Conan Doyle",
+      "authorKo": "아서 코난 도일",
+      "revision": 1,
+      "chapterCount": 15,
+      "durationMs": 21183812,
+      "bytes": 718077,
+      "sha256": "dcac54b2db52d50984ab8a46a22b5fa45e5d51ce6f96c724d03193341a9b15f7",
+      "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/hound-of-the-baskervilles-dcac54b2db52d509.json"
+    },
+    {
+      "id": "anne-of-green-gables",
+      "title": "Anne of Green Gables",
+      "titleKo": "빨강 머리 앤",
+      "author": "Lucy Maud Montgomery",
+      "authorKo": "루시 모드 몽고메리",
+      "revision": 1,
+      "chapterCount": 38,
+      "durationMs": 31072803,
+      "bytes": 1233953,
+      "sha256": "1b6339f9de44d0bcfead735447bb3e2f08748464b51ad5af965784401eda6a87",
+      "url": "https://raw.githubusercontent.com/SJEJ-TO/listennput-library/main/packages/anne-of-green-gables-1b6339f9de44d0bc.json"
     }
   ]
 }
